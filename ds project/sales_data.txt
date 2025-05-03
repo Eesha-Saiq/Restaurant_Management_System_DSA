@@ -1,0 +1,104 @@
+Sales Data (Time: 22-12-2024 18:4:38):	3	Manchurian Noodles	1	150.00
+
+Sales Data (Time: 22-12-2024 18:5:31):	2	Manchow Soup	1	200.00
+
+Sales Data (Time: 22-12-2024 18:10:58):	2	Manchow Soup	1	200.00
+
+Sales Data (Time: 22-12-2024 18:11:7):	3	Manchurian Noodles	1	150.00
+
+Sales Data (Time: 22-12-2024 18:12:5):	4	Fried Rice	1	180.00
+
+Sales Data (Time: 22-12-2024 18:13:7):	5	Hakka Noodles	1	80.00
+
+Sales Data (Time: 22-12-2024 18:13:15):	4	Fried Rice	1	180.00
+
+Sales Data (Time: 22-12-2024 19:22:52):	5	Hakka Noodles	2	160.00
+
+Sales Data (Time: 28-12-2024 17:3:37):	3	Manchurian Noodles	1	150.00
+
+Sales Data (Time: 28-12-2024 17:3:51):	3	Manchurian Noodles	2	300.00
+
+Sales Data (Time: 28-12-2024 17:5:1):	4	Fried Rice	1	180.00
+
+Sales Data (Time: 28-12-2024 17:5:24):	5	Hakka Noodles	2	160.00
+	1	Hot and Sour Soup	2	200.00
+
+Sales Data (Time: 28-12-2024 17:5:39):	1	Hot and Sour Soup	5	500.00
+
+Sales Data (Time: 28-12-2024 17:5:53):	4	Fried Rice	3	540.00
+
+Sales Data (Time: 28-12-2024 17:6:17):	5	Hakka Noodles	3	240.00
+
+Sales Data (Time: 28-12-2024 17:6:25):	3	Manchurian Noodles	4	600.00
+
+Sales Data (Time: 28-12-2024 17:6:34):	1	Hot and Sour Soup	4	400.00
+Sales Data (Time: 22-12-2024 18:4:38):	3	Manchurian Noodles	1	150.00
+
+Sales Data (Time: 22-12-2024 18:5:31):	2	Manchow Soup	1	200.00
+
+Sales Data (Time: 22-12-2024 18:10:58):	2	Manchow Soup	1	200.00
+
+Sales Data (Time: 22-12-2024 18:11:7):	3	Manchurian Noodles	1	150.00
+
+Sales Data (Time: 22-12-2024 18:12:5):	4	Fried Rice	1	180.00
+
+Sales Data (Time: 22-12-2024 18:13:7):	5	Hakka Noodles	1	80.00
+
+Sales Data (Time: 22-12-2024 18:13:15):	4	Fried Rice	1	180.00
+
+Sales Data (Time: 22-12-2024 19:22:52):	5	Hakka Noodles	2	160.00
+
+Sales Data (Time: 28-12-2024 17:3:37):	3	Manchurian Noodles	1	150.00
+
+Sales Data (Time: 28-12-2024 17:3:51):	3	Manchurian Noodles	2	300.00
+
+Sales Data (Time: 28-12-2024 17:5:1):	4	Fried Rice	1	180.00
+
+Sales Data (Time: 28-12-2024 17:5:24):	5	Hakka Noodles	2	160.00
+	1	Hot and Sour Soup	2	200.00
+
+Sales Data (Time: 28-12-2024 17:5:39):	1	Hot and Sour Soup	5	500.00
+
+Sales Data (Time: 28-12-2024 17:5:53):	4	Fried Rice	3	540.00
+
+Sales Data (Time: 28-12-2024 17:6:17):	5	Hakka Noodles	3	240.00
+
+Sales Data (Time: 28-12-2024 17:6:25):	3	Manchurian Noodles	4	600.00
+
+Sales Data (Time: 28-12-2024 17:6:34):	1	Hot and Sour Soup	4	400.00
+
+Sales Data (Time: 22-12-2024 18:4:38):	3	Manchurian Noodles	1	150.00
+
+Sales Data (Time: 22-12-2024 18:5:31):	2	Manchow Soup	1	200.00
+
+Sales Data (Time: 22-12-2024 18:10:58):	2	Manchow Soup	1	200.00
+
+Sales Data (Time: 22-12-2024 18:11:7):	3	Manchurian Noodles	1	150.00
+
+Sales Data (Time: 22-12-2024 18:12:5):	4	Fried Rice	1	180.00
+
+Sales Data (Time: 22-12-2024 18:13:7):	5	Hakka Noodles	1	80.00
+
+Sales Data (Time: 22-12-2024 18:13:15):	4	Fried Rice	1	180.00
+
+Sales Data (Time: 22-12-2024 19:22:52):	5	Hakka Noodles	2	160.00
+
+Sales Data (Time: 28-12-2024 17:3:37):	3	Manchurian Noodles	1	150.00
+
+Sales Data (Time: 28-12-2024 17:3:51):	3	Manchurian Noodles	2	300.00
+
+Sales Data (Time: 28-12-2024 17:5:1):	4	Fried Rice	1	180.00
+
+Sales Data (Time: 28-12-2024 17:5:24):	5	Hakka Noodles	2	160.00
+	1	Hot and Sour Soup	2	200.00
+
+Sales Data (Time: 28-12-2024 17:5:39):	1	Hot and Sour Soup	5	500.00
+
+Sales Data (Time: 28-12-2024 17:5:53):	4	Fried Rice	3	540.00
+
+Sales Data (Time: 28-12-2024 17:6:17):	5	Hakka Noodles	3	240.00
+
+Sales Data (Time: 28-12-2024 17:6:25):	3	Manchurian Noodles	4	600.00
+
+Sales Data (Time: 28-12-2024 17:6:34):	1	Hot and Sour Soup	4	400.00
+
